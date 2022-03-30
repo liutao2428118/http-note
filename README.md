@@ -18,3 +18,10 @@
 18. Web 主机托管
 19. 发布系统
 20. [重定向与负载均衡](https://github.com/liutao2428118/http-note/blob/master/20-%E9%87%8D%E5%AE%9A%E5%90%91%E4%B8%8E%E8%B4%9F%E8%BD%BD%E5%9D%87%E8%A1%A1.md)
+
+# HTTP/2 基础教程-笔记
+
+3. [Web 优化的动机与方式](https://github.com/liutao2428118/http-note/blob/master/2-3-Web%E4%BC%98%E5%8C%96%E5%8A%A8%E6%9C%BA.md)
+4. [HTTP/2迁移](https://github.com/liutao2428118/http-note/blob/master/2-4-%E8%BF%81%E7%A7%BB.md)
+5. [HTTP/2 协议](https://github.com/liutao2428118/http-note/blob/master/2-5-HTTP2%E5%8D%8F%E8%AE%AE.md)
+6. [HTTP/2 性能](https://github.com/liutao2428118/http-note/blob/master/2-6-HTTP2%E6%80%A7%E8%83%BD.md)
